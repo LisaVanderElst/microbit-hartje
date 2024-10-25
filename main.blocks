@@ -1,0 +1,13 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><variables></variables><block type="device_forever" id="_C/x~h)]:D2vClud]-7~" x="0" y="0"><statement name="HANDLER"><block type="device_show_leds" id="/vRd-2(s/i^BY9U|d!t;"><field name="LEDS">`
+        . # . # . 
+        # # # # # 
+        # # # # # 
+        . # # # . 
+        . . # . .
+        `</field><next><block type="device_pause" id="]E32u#hr`dkh.[r60rf6"><value name="pause"><shadow type="timePicker" id="lI6N5IrWA_WX0=_,L)Gy"><field name="ms">100</field></shadow></value><next><block type="device_show_leds" id="ZBQWBk?T_gsBx}Eo9B88"><field name="LEDS">`
+        . . . . . 
+        . . . . . 
+        . . . . . 
+        . . . . . 
+        . . . . .
+        `</field><next><block type="device_pause" id="]Q]G|RQ+GHZ$;z,Eh}Ak"><value name="pause"><shadow type="timePicker" id="zG$V,;)[l,V)-]@!_Q)|"><field name="ms">100</field></shadow></value></block></next></block></next></block></next></block></statement></block><block type="game_pause" id="jfd%A;1ZuynYs#l=~$xN" disabled-reasons="ORPHANED_BLOCK,MANUALLY_DISABLED" x="725" y="198"><next><block type="device_clear_display" id="4HoFCc!9#N`F73#V0e%+" disabled-reasons="ORPHANED_BLOCK,MANUALLY_DISABLED"></block></next></block><block type="game_resume" id="6BviTjd(}VLQLj?dr~uZ" disabled-reasons="ORPHANED_BLOCK,MANUALLY_DISABLED" x="944" y="488"></block></xml>
